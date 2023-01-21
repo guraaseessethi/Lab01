@@ -37,3 +37,9 @@ h3 {
 .about {
     text-align: center;
 }
+
+li:nth-child(1),
+li:nth-child(3),
+li:nth-child(5) {
+    font-weight: bold;
+}
